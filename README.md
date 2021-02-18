@@ -1,2 +1,2 @@
 # Is github down?
-## Not right now.
+## If you are reading this, not right now.
